@@ -1,0 +1,15 @@
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\bin\Debug\net6.0\Zadacha27.exe
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\bin\Debug\net6.0\Zadacha27.deps.json
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\bin\Debug\net6.0\Zadacha27.runtimeconfig.json
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\bin\Debug\net6.0\Zadacha27.dll
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\bin\Debug\net6.0\Zadacha27.pdb
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.csproj.AssemblyReference.cache
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.AssemblyInfoInputs.cache
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.AssemblyInfo.cs
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.csproj.CoreCompileInputs.cache
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.dll
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\refint\Zadacha27.dll
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.pdb
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\Zadacha27.genruntimeconfig.cache
+D:\Сетевая папка\Домашние задания по C#\DZ№4\Zadacha27\obj\Debug\net6.0\ref\Zadacha27.dll
